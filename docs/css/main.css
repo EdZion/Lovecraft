@@ -1,0 +1,25 @@
+body{
+    
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+blockquote > footer{
+    text-align: right;
+}
+h1 {
+   text-align: center;
+    color:crimson;
+}
+h2{
+    text-align: center;
+    color:crimson;
+}
+
+.unreabale{
+    background-image: url(https://thumbs.gfycat.com/PlainThoroughCanvasback-size_restricted.gif)
+    
+}
